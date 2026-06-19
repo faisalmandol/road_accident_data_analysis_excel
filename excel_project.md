@@ -10,16 +10,16 @@ Excited to share my Road Accident Analysis Dashboard created entirely in Microso
 
 In this project, I analyzed road accident data and built an interactive dashboard to uncover key insights related to casualties, accident severity, vehicle types, road conditions, and yearly trends.
 
-🔍 Key Highlights of the Dashboard:
+# Key Highlights of the Dashboard:
 
-✔️ Total casualties analysis with severity breakdown
-✔️ Casualties by vehicle type and road type
-✔️ Monthly trend comparison (Current Year vs Previous Year)
-✔️ Analysis based on road surface and light conditions
-✔️ Urban vs Rural casualty distribution
-✔️ Interactive filters for accident date, weather conditions, and road conditions
+ Total casualties analysis with severity breakdown
+ Casualties by vehicle type and road type
+ Monthly trend comparison (Current Year vs Previous Year)
+ Analysis based on road surface and light conditions
+ Urban vs Rural casualty distribution
+ Interactive filters for accident date, weather conditions, and road conditions
 
-🛠️ Tools & Features Used in Excel:
+# Tools & Features Used in Excel:
 • Pivot Tables & Pivot Charts
 • Slicers for dynamic filtering
 • Conditional Formatting
@@ -28,10 +28,10 @@ In this project, I analyzed road accident data and built an interactive dashboar
 • Dashboard Design & KPI Cards
 
 This project helped me improve my skills in:
-📌 Data Analysis
-📌 Data Visualization
-📌 Excel Dashboarding
-📌 Analytical Thinking & Storytelling with Data
+ Data Analysis
+ Data Visualization
+ Excel Dashboarding
+ Analytical Thinking & Storytelling with Data
 
 <img width="700" height="351" alt="Bike Accident Analysis" src="https://github.com/user-attachments/assets/b999a040-fabe-4fe5-ac85-91f09e497be0" />
 
